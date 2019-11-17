@@ -1,0 +1,28 @@
+{
+  "name": "anchan828.property-drawer-collection",
+  "displayName": "Property Drawer Collection",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "description": "Collection of custom property drawers.",
+  "keywords": [
+    "editor",
+    "unity",
+    "inspector",
+    "property drawer",
+    "attributes"
+  ],
+  "author": {
+    "name": "anchan828"
+  },
+  "samples": [
+    {
+      "displayName": "Property Drawer Collection Examples",
+      "description": "Overview and details examples.",
+      "path": "Samples~"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anchan828/property-drawer-collection.git"
+  }
+}
