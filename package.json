@@ -1,7 +1,7 @@
 {
   "name": "com.github.anchan828.property-drawer-collection",
   "displayName": "Property Drawer Collection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2017.1",
   "description": "Collection of custom property drawers.",
   "keywords": [
